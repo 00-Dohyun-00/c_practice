@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "limits.h": "c"
+    "limits.h": "c",
+    "chapter1_02.h": "c"
   }
 }
