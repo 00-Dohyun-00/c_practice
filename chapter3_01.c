@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <stdint.h>
 
-void chapter1_01(void) {
+void chapter3_01(void) {
   // ========================
   // 변수
   // ========================
